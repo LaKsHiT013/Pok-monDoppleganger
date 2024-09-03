@@ -1,4 +1,4 @@
-# Pok-monDoppleganger
+# PokemonDoppleganger
 This a ML model which guesses your pokemon lookalike
 
 # What is used:
