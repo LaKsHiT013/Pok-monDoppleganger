@@ -2,7 +2,7 @@
 This a ML model which guesses your pokemon lookalike
 
 # What is used:
--> Used CNN Models to extract embeddings of Pokemons and store them in a CSV file.
+-> Used CNN Models to extract embeddings of Pokemons and store them in a CSV file.<br>
 -> Used models to extract the facial embeddings of a person who is using the app.
 -> Then with the help of Cosine Similarity Algorithm Predicted the most closest pokemon.
 
